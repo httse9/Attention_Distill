@@ -1,0 +1,13 @@
+{
+  "batch_size": 1024,
+  "bert": "google/bert_uncased_L-2_H-256_A-4",
+  "book": true,
+  "epoch": 40,
+  "exp_name": "bert-2.256-book-20K",
+  "lr": 5e-05,
+  "max_seq_length": 12,
+  "n_examples": 20000,
+  "save_every_epoch": null,
+  "seed": 0,
+  "wiki": false
+}

@@ -1,0 +1,13 @@
+{
+  "batch_size": 2048,
+  "bert": "prajjwal1/bert-tiny",
+  "book": false,
+  "epoch": 40,
+  "exp_name": "bert-tiny-wiki-20K-36",
+  "lr": 5e-05,
+  "max_seq_length": 36,
+  "n_examples": 20000,
+  "save_every_epoch": null,
+  "seed": 0,
+  "wiki": true
+}
